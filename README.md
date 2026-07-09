@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 🥛 Milk Quality Prediction
-
 Machine Learning Web Application for Milk Quality Classification
 
 Built with **FastAPI • Random Forest • Svelte • Docker**
